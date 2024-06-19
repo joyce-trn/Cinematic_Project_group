@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CinematicAnimation/Cinematic_Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/CinematicAnimation/Cinematic_Project/Content/Map.umap",
+				"D:/CinematicAnimation/Cinematic_Project/Content/_GENERATED/trucn/Box_7CAA82D1.uasset",
+				"D:/CinematicAnimation/Cinematic_Project/Content/_GENERATED/trucn/Box_Merge_9203D353.uasset",
+				"D:/CinematicAnimation/Cinematic_Project/Content/_GENERATED/trucn/Box_Merge_2E73C3E5.uasset"
+			]
+		}
+	]
+}
