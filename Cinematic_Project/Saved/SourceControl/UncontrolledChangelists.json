@@ -5,8 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/12660/Documents/GitHub/Cinematic_Project_group/Cinematic_Project/Content/Map.umap",
 				"D:/CinematicAnimation/Cinematic_Project_group/Cinematic_Project/Content/Map.umap",
+				"D:/CinematicAnimation/Cinematic_Project_group/Cinematic_Project/Content/BUSAN_CINEMA_CENTER/Materials/M_brick.uasset",
+				"D:/CinematicAnimation/Cinematic_Project_group/Cinematic_Project/Content/BUSAN_CINEMA_CENTER/Materials/M_steel_panel.uasset",
+				"C:/Users/12660/Documents/GitHub/Cinematic_Project_group/Cinematic_Project/Content/Map.umap",
 				"D:/CinematicAnimation/Cinematic_Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/CinematicAnimation/Cinematic_Project/Content/Map.umap",
 				"D:/CinematicAnimation/Cinematic_Project/Content/_GENERATED/trucn/Box_7CAA82D1.uasset",
